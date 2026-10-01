@@ -111,8 +111,8 @@ The layout adapts across desktop, tablet and mobile screens. This follows the po
 
 I'm interested in full-stack development, AI and agricultural technology, especially solutions grounded in real-world farming needs.
 
-- 📧 Email: *add your email here*
-- 💼 LinkedIn: *add your LinkedIn URL here*
+- 📧 Email: * chetpatil17@gmail.com *
+- 💼 LinkedIn: *https://www.linkedin.com/in/chetan-patil17/*
 - 🐙 GitHub: [@chetan-patil17](https://github.com/chetan-patil17)
 
 ---
